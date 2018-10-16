@@ -19,9 +19,9 @@ meta_tags:
       <img class="w-100" src="/assets/images/seperator.png" alt="Divider between sections" tabindex="-1" />
     </div>
     {% if site.active_lang == "en"%}
-      <a class="primary-btn inverse mt-4" href="{{ page.booking_link_en }}" target="_blank">Book this offer</a>
+      <a class="primary-btn inverse small mt-4" href="{{ page.booking_link_en }}" target="_blank">Book this offer</a>
     {% else %}
-      <a class="primary-btn inverse mt-4" href="{{ page.booking_link_zh }}" target="_blank">预订此优惠</a>
+      <a class="primary-btn inverse small mt-4" href="{{ page.booking_link_zh }}" target="_blank">预订此优惠</a>
     {% endif %}
   </div>
 </section>
@@ -72,13 +72,13 @@ meta_tags:
           {{ page.offer_includes_en }}
           <h6 tabindex="0">TERMS & CONDITIONS</h6>
           {{ page.terms_en }}
-          <a class="primary-btn" href="{{ page.booking_link_en }}">Book this Offer</a>
+          <a class="primary-btn small" href="{{ page.booking_link_en }}">Book this Offer</a>
         {% else %}
           <h6 tabindex="0">优惠包括</h6>
           {{ page.offer_includes_zh }}
           <h6 tabindex="0">条款和条件</h6>
           {{ page.terms_zh }}
-          <a class="primary-btn" href="{{ page.booking_link_zh }}">预订此优惠</a>
+          <a class="primary-btn small" href="{{ page.booking_link_zh }}">预订此优惠</a>
         {% endif %}
       </div>
     </div>

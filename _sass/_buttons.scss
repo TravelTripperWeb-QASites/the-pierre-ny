@@ -18,6 +18,12 @@
     background: $text-color;
   }
 
+  &.small {
+    padding: 6px 20px;
+    font-family: $tag-line-font;
+    font-size: $type-size-9;
+  }
+
   &.inverse {
     color: $primary-color;
     background: $white;
@@ -25,6 +31,11 @@
     &:hover {
       color: $white;
       background: $primary-color;
+    }
+    &.small {
+      padding: 6px 20px;
+      font-family: $tag-line-font;
+      font-size: $type-size-9;
     }
   }
   &[type= 'submit'] {
@@ -109,7 +120,7 @@
     width: 130px;
     padding: 7px 0;
   }
-  
+
   &.light {
     display: inline-block;
     width: auto;
