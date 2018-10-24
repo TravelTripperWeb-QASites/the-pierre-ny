@@ -97,7 +97,7 @@
 <link rel="alternate" hreflang="{{ site.default_lang }}" href="{{ site.url }}{{ page.permalink }}">
 {% for lang in site.languages %}
   {% unless lang == site.default_lang %}
-    <link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}/{{ lang }}{{ page.permalink }}">
+    <link rel="alternate" hreflang="{{ lang }}-Hans" href="{{ site.url }}/{{ lang }}{{ page.permalink }}">
   {% endunless %}
 {% endfor %}
 
