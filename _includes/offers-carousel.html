@@ -16,12 +16,12 @@
     <div class="slick-controls" id="commonCarousel" role="listbox">
       {% for offer in offers %} {% assign offer_url = offer.url_friendly_name | prepend: '{{ offerspage }}' | append: '/' %} {% unless page.url == offer_url %} {% unless offer.unpublish == true %}
       <div class="item" role="option">
-        <a href="{{ offerspage }}{{ offer.url_friendly_name }}" title="{{ offer.title }}">
+        <a href="{{ offerspage }}{{ offer.url_friendly_name }}/" title="{{ offer.title }}">
           <div class="img-block" style="background-image:url('{{ offer.banner_image.url_small }}');"></div>
         </a>
         <div class="content">
-          <h4><a href="{{ offerspage }}{{ offer.url_friendly_name }}">{% if site.active_lang == "en"%}{{ offer.title }}{% else %}{{ offer.title_zh }}{% endif%}</a></h4>
-          <a href="{{ offerspage }}{{ offer.url_friendly_name }}" class="secondary-btn">{% t 'view_special' %}</a>
+          <h4><a href="{{ offerspage }}{{ offer.url_friendly_name }}/">{% if site.active_lang == "en"%}{{ offer.title }}{% else %}{{ offer.title_zh }}{% endif%}</a></h4>
+          <a href="{{ offerspage }}{{ offer.url_friendly_name }}/" class="secondary-btn">{% t 'view_special' %}</a>
         </div>
       </div>
       {% endunless %} {% endunless %} {% endfor %}

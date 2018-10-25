@@ -13,12 +13,12 @@
     <div class="slick-controls" id="commonCarousel" role="tablist">
       {% for offer in offers %} {% assign offer_url = offer.url_friendly_name | prepend: offerspage | append: '/' %} {% unless page.url == offer_url %} {% unless offer.unpublish == true %}
       <div class="item" role="option">
-        <a href="{{ offerspage }}{{ offer.url_friendly_name }}" title="{{ offer.title }}">
+        <a href="{{ offerspage }}{{ offer.url_friendly_name }}/" title="{{ offer.title }}">
           <div class="img-block" style="background-image:url('{{ offer.banner_image.url_small }}');"></div>
         </a>
         <div class="content">
           <h4 tabindex="0">{% if site.active_lang == "en"%}{{ offer.title }}{% else %}{{ offer.title_zh }}{% endif%}</h4>
-          <a href="{{ offerspage }}{{ offer.url_friendly_name }}" class="secondary-btn">{% t 'view_special' %}</a>
+          <a href="{{ offerspage }}{{ offer.url_friendly_name }}/" class="secondary-btn">{% t 'view_special' %}</a>
         </div>
       </div>
       {% endunless %} {% endunless %} {% endfor %}
