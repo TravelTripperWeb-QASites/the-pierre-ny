@@ -29,7 +29,7 @@
   },
   "front-page":{
     "type": "bool",
-    "required": true,
+    "required": false,
     "label": "Check if this event should be published to the front page" 
   },
   "event_listing": {
