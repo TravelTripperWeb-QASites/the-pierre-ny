@@ -3,7 +3,7 @@
     "en": "<p>On Monday November 5th, Broadway At The Pierre celebrates HAMILTON! Join us as we welcome cast members Sean Green Jr. and Hope Easterbrook for a special evening of songs and stories from the Tony Award-winning musical phenomenon.</p>",
     "zh": "<p> 我们的户外活动系列继续！ 7月26日加入Perrine和ChâteauMiraval，参加仲夏夜之旅，包括美食，音乐和无尽的MiravalCôtesdeProvenceRosé！门票现已发售。</p>"
   },
-  "category_id": "hamilton",
+  "category_id": "broadway ",
   "category_image": {
     "name": "Hamilton creative",
     "file_name": "Hamilton creative.jpg",
@@ -43,5 +43,5 @@
       }
     ]
   },
-  "front-page": false
+  "front-page": true
 }
