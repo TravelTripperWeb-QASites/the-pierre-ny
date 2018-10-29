@@ -1,6 +1,6 @@
 {
   "category_intro_localized": {
-    "en": "<p>Featured in The New York Times and Playbill, our acclaimed monthly cabaret series presented by Taittinger Champagne features intimate performances from musical theater's brightest stars.</p>",
+    "en": "<p>On Monday November 5th, Broadway At The Pierre celebrates HAMILTON! Join us as we welcome cast members Sean Green Jr. and Hope Easterbrook for a special evening of songs and stories from the Tony Award-winning musical phenomenon.</p>",
     "zh": "<p> 我们的户外活动系列继续！ 7月26日加入Perrine和ChâteauMiraval，参加仲夏夜之旅，包括美食，音乐和无尽的MiravalCôtesdeProvenceRosé！门票现已发售。</p>"
   },
   "category_id": "hamilton",
@@ -34,7 +34,7 @@
       {
         "event_name": "Hamilton ",
         "event_id": "hamilton",
-        "event_detail": "On Monday November 5th, Broadway at the Perrine presents HAMILTON! Join us as we welcome cast members Sean Green Jr. and Hope Easterbrook for a special evening of songs and stories from the Tony Award-winning musical phenomenon. $75 cover charge includes set menu of light bites, welcome glass of Taittinger Champagne and performance. Reservations required. To book, visit Two E on Open Table.",
+        "event_detail": " Change verbiage in drop down with Open Table widget to: $75 cover charge includes set menu of light bites, welcome glass of Taittinger Champagne and performance. Reservations required. To book, please visit Two E on Open Table.",
         "day": "Monday",
         "date_time": "November 5th, 2018",
         "event_contact": "<p>Contact Two E Bar &amp; Lounge, at&nbsp;<a href=\"tel: 212-940-8113\"> 212 940 8113&nbsp; </a>&nbsp;or&nbsp;<a href=\"mailto:TwoE@tajhotels.com\">TwoE@tajhotels.com</a></p>",
