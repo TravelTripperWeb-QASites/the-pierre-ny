@@ -27,6 +27,11 @@
     "required": true,
     "hint": "Enter sort order for sub categories"
   },
+  "front-page":{
+    "type": "bool",
+    "required": false,
+    "label": "Check if this event should be published to the front page" 
+  },
   "event_listing": {
     "type": "nested",
     "multiple": true,

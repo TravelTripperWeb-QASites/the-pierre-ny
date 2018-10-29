@@ -41,5 +41,6 @@
         "cta_text": "Make Reservations"
       }
     ]
-  }
+  },
+  "front-page": true
 }

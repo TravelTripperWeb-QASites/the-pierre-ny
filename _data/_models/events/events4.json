@@ -1,30 +1,44 @@
 {
   "category_id": "broadway",
   "category_image": {
-    "name": "trio",
-    "file_name": "trio.jpg",
-    "url": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/broadway-at-the-pierre-trio.jpg",
+    "name": "file",
+    "file_name": "file.jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/357_906_20329/media/2018-10-29-152239/file.jpeg",
     "tags": "",
     "description": "",
-    "date_added": "2018-10-03-085919",
+    "date_added": "2018-10-29-152239",
     "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 600,
-    "file_size": 106942,
-    "url_large": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/large_broadway-at-the-pierre-trio.jpg",
-    "url_medium": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/medium_broadway-at-the-pierre-trio.jpg",
-    "url_small": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/small_broadway-at-the-pierre-trio.jpg",
-    "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/xsmall_broadway-at-the-pierre-trio.jpg",
-    "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/thumb_broadway-at-the-pierre-trio.jpg",
-    "path": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/broadway-at-the-pierre-trio.jpg",
-    "alt": "Trio",
+    "width": 3024,
+    "height": 4032,
+    "file_size": 2241953,
+    "url_large": "//cdn.traveltripper.io/site-assets/357_906_20329/media/2018-10-29-152239/large_file.jpeg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/357_906_20329/media/2018-10-29-152239/medium_file.jpeg",
+    "url_small": "//cdn.traveltripper.io/site-assets/357_906_20329/media/2018-10-29-152239/small_file.jpeg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_20329/media/2018-10-29-152239/xsmall_file.jpeg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_20329/media/2018-10-29-152239/thumb_file.jpeg",
+    "path": "//cdn.traveltripper.io/site-assets/357_906_20329/media/2018-10-29-152239/file.jpeg",
+    "alt": "file",
     "caption": ""
   },
   "sort_order": 3,
   "title_localized": {
-    "en": "Broadway at the Pierre"
+    "en": "Art in Two E"
   },
   "category_intro_localized": {
-    "en": "<p>Featured in The New York Times and Playbill, our acclaimed monthly cabaret series presented by Taittinger Champagne features intimate performances from musical theater's brightest stars. $75 cover charge includes set menu of light bites, welcome glass of Champagne and performance.</p><p>   Watch video clips from previous performances on our <a href=\"https://www.youtube.com/playlist?list=PL_JCpt6tqVDT85vkwudzdkZ_IpIJjLxp2\" target=\"_blank\">YouTube page.</a></p>"
+    "en": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+  },
+  "front-page": true,
+  "event_listing_localized": {
+    "en": [
+      {
+        "event_name": "Art in Two E",
+        "event_id": "art",
+        "day": "To be decided",
+        "date_time": "2018",
+        "widget": "OpenTable",
+        "event_booking_id": "x",
+        "event_contact": "<p><a href=\"https://www.thepierreny.com/dining/twoebar-lounge/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn More</a></p>"
+      }
+    ]
   }
 }
