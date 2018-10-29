@@ -189,6 +189,12 @@ $(document).ready(function () {
     }
   }, 60);
 
+  $('.skip-to-main').on('click', function(event){
+      event.preventDefault();
+      //var hashId = $(this).prop('href');
+      $(this.hash).attr("tabindex",-1).focus();
+      return false;
+  });
 }); // end document ready
 
 
