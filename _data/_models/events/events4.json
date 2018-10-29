@@ -36,7 +36,8 @@
         "day": "To be decided",
         "date_time": "2018",
         "widget": "OpenTable",
-        "event_booking_id": "https://www.thepierreny.com/dining/twoebar-lounge/"
+        "event_booking_id": "x",
+        "event_contact": "<p><a href=\"https://www.thepierreny.com/dining/twoebar-lounge/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn More</a></p>"
       }
     ]
   }
