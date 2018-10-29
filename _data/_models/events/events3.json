@@ -42,5 +42,6 @@
         "widget": "OpenTable"
       }
     ]
-  }
+  },
+  "front-page": false
 }
