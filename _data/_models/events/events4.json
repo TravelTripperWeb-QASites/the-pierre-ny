@@ -32,9 +32,9 @@
   "event_listing_localized": {
     "en": [
       {
-        "event_name": "To be announced",
+        "event_name": "Coming Soon",
         "event_id": "art",
-        "day": "To be decided",
+        "day": "November",
         "date_time": "2018",
         "widget": "OpenTable",
         "event_booking_id": "x",
