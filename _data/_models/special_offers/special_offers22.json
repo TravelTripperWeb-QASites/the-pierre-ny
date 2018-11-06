@@ -2,9 +2,9 @@
   "title": "New Year's Special",
   "title_zh": "New Year's Special Package",
   "url_friendly_name": "new-years-special",
-  "short_description_en": "Book a two night stay and get the second night at 50% discount. Come Discover the magic of The Pierre on New Year's Eve. ",
+  "short_description_en": "Stay for two nights on New Year's Eve and get the second night at 50% discount. Come Discover the magic of The Pierre.",
   "short_description_zh": "Book a two night stay and get the second night at 50% discount. Come Discover the magic of The Pierre on New Year's Eve. ",
-  "date": "Valid until January 2, 2019",
+  "date": "Valid until January 1, 2019",
   "banner_image": {
     "name": "winter-wonderland-package",
     "file_name": "winter-wonderland-package.jpg",
@@ -26,9 +26,9 @@
     "alt": "Winter Wonderland",
     "caption": ""
   },
-  "offer_includes_en": "<ul tabindex=\"0\">\n<li>A welcome amenity upon arrival</li>\n<li>A bottle of Taittinger champagne</li>\n<li>Complimentary valet parking during the stay</li>\n</ul>",
-  "offer_includes_zh": "<ul tabindex=\"0\">\n<li>A welcome amenity upon arrival</li>\n<li>A bottle of Taittinger champagne on arrival</li>\n<li>Complimentary valet parking during the stay</li>\n</ul>",
-  "terms_en": "<ul tabindex=\"0\">\n<li>Non-refundable</li>\n<li>24-hour cancellation policy, requiring a minimum of&nbsp;24 hours prior to arrival to avoid a one night room and tax late cancellation charge</li>\n<li><span style=\"text-indent: -0.25in;\">Guarantee/Deposit and Change/Cancellation Fees will depend on selected dates and room/rate combination</span></li>\n</ul>",
+  "offer_includes_en": "<ul tabindex=\"0\">\n<li>A special NYE welcome amenity on arrival</li>\n<li>A bottle of Taittinger champagne</li>\n<li>Complimentary valet parking during the stay</li>\n</ul>",
+  "offer_includes_zh": "<ul tabindex=\"0\">\n<li>A special welcome amenity on arrival</li>\n<li>A bottle of Taittinger champagne on arrival</li>\n<li>Complimentary valet parking during the stay</li>\n</ul>",
+  "terms_en": "<ul tabindex=\"0\">\n<li>Non-refundable, minimum two-night stay</li>\n<li>24-hour cancellation policy, requiring a minimum of&nbsp;24 hours prior to arrival to avoid a one night room and tax late cancellation charge</li>\n<li><span style=\"text-indent: -0.25in;\">Guarantee/Deposit and Change/Cancellation Fees will depend on selected dates and room/rate combination</span></li>\n</ul>",
   "terms_zh": "<ul tabindex=\"0\">\n<li>Non-refundable</li>\n<li>24-hour cancellation policy, requiring a minimum of&nbsp;24 hours prior to arrival to avoid a one night room and tax late cancellation charge</li>\n<li><span style=\"text-indent: -0.25in;\">Guarantee/Deposit and Change/Cancellation Fees will depend on selected dates and room/rate combination</span></li>\n</ul>",
   "booking_link_en": "https://thepierreny.reztrip.com/ext/promoRate?property=973&mode=b&pm=true&sr=270484&vr=3",
   "booking_link_zh": "https://thepierreny.reztrip.com/ext/promoRate?property=973&mode=b&pm=true&sr=270484&vr=3",
@@ -75,6 +75,5 @@
       "alt": "Winter Wonderland package",
       "caption": ""
     }
-  ],
-  "unpublish": false
+  ]
 }
