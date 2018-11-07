@@ -105,17 +105,19 @@ meta_tags:
     <div class="shows-row m-0">
       {% assign event_categories = site.data._models.events | sort: "sort_order" %}
       {% for item in event_categories | limit:3 %}
-      {% if item.front-page == true %}
+      
       
         <div class="shows-image">
+            {% if item.front-page == true %}
           <div class="s-image mr-15" style="background-image:url('{{ item.category_image.url }}');">
             <div class="heading">
               <h6 tabindex="0">{{ item.title }}</h6>
               <a class="secondary-btn inverse" href="{{ eventlink }}#{{ item.category_id }}-scroll" title="{{ item.title }}">{% t 'view_details' %}</a>
+              {% endif %}
             </div>
           </div>
         </div>
-        {% endif %}
+        
       {% endfor %}
     </div>
   </div>
