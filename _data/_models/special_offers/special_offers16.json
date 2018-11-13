@@ -23,7 +23,7 @@
     "alt": "Dog Promo",
     "caption": ""
   },
-  "date": "From June 1, 2018 ",
+  "date": "From November 10, 2018 ",
   "short_description_en": "Celebrate the Year of the Dog & your best friend with a bespoke experience by renowned photographer Diana Haskell. Relax and enjoy your animal companion while Diana creates beautiful fine art images you are sure to treasure for a lifetime.",
   "short_description_zh": "Celebrate the Year of the Dog & your best friend with a bespoke experience by renowned photographer Diana Haskell. Relax and enjoy your animal companion while Diana creates beautiful fine art images you are sure to treasure for a lifetime.",
   "slider_images": [
@@ -95,6 +95,6 @@
   "terms_zh": "<ul tabindex=\"0\">\n<li>Only dogs up to 15 pounds</li>\n<li>For 2 guests maximum, plus dog</li>\n<li>Image gallery will be available to guests within 21 days</li>\n<li>Available as an add-on for guests who book any suite category&nbsp;<br />\n<p class=\"MsoListParagraph\" style=\"text-indent: -.25in; mso-list: l0 level1 lfo1;\">&nbsp;</p>\n</li>\n</ul>\n<p>&nbsp;</p>",
   "booking_link_en": "https://thepierreny.reztrip.com/classic/en/searches/5a9422498b076b4277860560/hotels/NYCTP/rooms?action=show&adults[]=1&arrival_date=2018-02-26&children[]=0&controller=landings&departure_date=2018-02-27&locale=en&starting_page=search",
   "booking_link_zh": "https://thepierreny.reztrip.com/classic/en/searches/5a9422498b076b4277860560/hotels/NYCTP/rooms?action=show&adults[]=1&arrival_date=2018-02-26&children[]=0&controller=landings&departure_date=2018-02-27&locale=en&starting_page=search",
-  "order": 3,
-  "unpublish": true
+  "order": 5,
+  "unpublish": false
 }
