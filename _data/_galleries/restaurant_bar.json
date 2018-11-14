@@ -373,6 +373,25 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035852/thumb_perrine-tablescape.jpg",
       "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035852/perrine-tablescape.jpg",
       "alt": "perrine tablescape"
+    },
+    {
+      "name": "pierre-detail-menu",
+      "file_name": "pierre-detail-menu.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040332/pierre-detail-menu.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-040332",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 900,
+      "file_size": 78422,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040332/large_pierre-detail-menu.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040332/medium_pierre-detail-menu.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040332/small_pierre-detail-menu.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040332/xsmall_pierre-detail-menu.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040332/thumb_pierre-detail-menu.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040332/pierre-detail-menu.jpg",
+      "alt": "Menu"
     }
   ],
   "description": ""
