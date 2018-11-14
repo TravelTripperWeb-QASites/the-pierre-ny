@@ -105,8 +105,8 @@ meta_tags:
     <div class="shows-row m-0">
       {% assign event_categories = site.data._models.events | sort: "sort_order" %}
       {% for item in event_categories | limit:3 %}
-      
-      
+
+
         <div class="shows-image">
             {% if item.front-page == true %}
           <div class="s-image mr-15" style="background-image:url('{{ item.category_image.url }}');">
@@ -117,7 +117,7 @@ meta_tags:
             </div>
           </div>
         </div>
-        
+
       {% endfor %}
     </div>
   </div>
@@ -137,7 +137,7 @@ meta_tags:
   </div>
   <div class="images-section m-0">
     <div class="images">
-      <div class="image-text" style="background-image:url('/assets/images/home/meetings.jpg');">
+      <div class="image-text" style="background-image:url('//cdn.traveltripper.io/site-assets/357_906_21081/media/2018-11-13-014041/Cotillion_Classroom_Center.jpg');">
         <div class="heading">
           {% regionblock meetings_title, type:text %}
            <h6 tabindex="0">Meetings</h6>
@@ -147,7 +147,7 @@ meta_tags:
           {% endregionblock %}
         </div>
       </div>
-      <div class="image-text mt-15" style="background-image:url('/assets/images/home/venues.jpg');">
+      <div class="image-text mt-15" style="background-image:url('//cdn.traveltripper.io/site-assets/357_906_21081/media/2018-11-13-014235/Ballroom_Aerial_with_Balconies__1_.jpg');">
         <div class="heading">
           {% regionblock venues_title, type:text %}
            <h6 tabindex="0">Venues</h6>
@@ -159,7 +159,7 @@ meta_tags:
       </div>
     </div>
     <div class="images">
-      <div class="image-full ml-15 mt--15" style="background-image:url('/assets/images/home/weddings.jpg');">
+      <div class="image-full ml-15 mt--15" style="background-image:url('//cdn.traveltripper.io/site-assets/357_906_21081/media/2018-11-13-013549/Beere-Levey-45072-BM-0479__1_.jpg');">
         <div class="heading">
           {% regionblock weddings_title, type:text %}
            <h6 tabindex="0">Weddings & Social Events</h6>
