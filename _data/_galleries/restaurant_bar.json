@@ -392,6 +392,25 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040332/thumb_pierre-detail-menu.jpg",
       "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040332/pierre-detail-menu.jpg",
       "alt": "Menu"
+    },
+    {
+      "name": "rotunda-service-detail",
+      "file_name": "rotunda-service-detail.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040425/rotunda-service-detail.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-040425",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 900,
+      "file_size": 78910,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040425/large_rotunda-service-detail.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040425/medium_rotunda-service-detail.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040425/small_rotunda-service-detail.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040425/xsmall_rotunda-service-detail.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040425/thumb_rotunda-service-detail.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040425/rotunda-service-detail.jpg",
+      "alt": "rotunda service detail"
     }
   ],
   "description": ""
