@@ -219,6 +219,25 @@
       "git_file_name": "_assets/image_data/events-6.json",
       "path": "//cdn.traveltripper.io/site-assets/357_906_18634/media/2018-08-30-080216/events-6.jpg",
       "alt": "events-6"
+    },
+    {
+      "name": "cotillion-room",
+      "file_name": "cotillion-room.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-034221/cotillion-room.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-034221",
+      "file_type": "image/jpeg",
+      "width": 1246,
+      "height": 701,
+      "file_size": 165921,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-034221/large_cotillion-room.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-034221/medium_cotillion-room.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-034221/small_cotillion-room.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-034221/xsmall_cotillion-room.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-034221/thumb_cotillion-room.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-034221/cotillion-room.jpg",
+      "alt": "Cotillion Room"
     }
   ],
   "description": ""
