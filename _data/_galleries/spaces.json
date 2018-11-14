@@ -80,6 +80,25 @@
       "git_file_name": "_assets/image_data/special-gallery2.json",
       "path": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-08-31-085523/special-gallery2.jpg",
       "alt": "Special events at The Pierre"
+    },
+    {
+      "name": "rotunda-wide",
+      "file_name": "rotunda-wide.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-050613/rotunda-wide.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-050613",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 900,
+      "file_size": 209619,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-050613/large_rotunda-wide.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-050613/medium_rotunda-wide.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-050613/small_rotunda-wide.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-050613/xsmall_rotunda-wide.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-050613/thumb_rotunda-wide.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-050613/rotunda-wide.jpg",
+      "alt": "Rotunda wide"
     }
   ],
   "description": ""
