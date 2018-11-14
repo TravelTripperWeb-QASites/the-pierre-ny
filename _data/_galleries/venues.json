@@ -238,6 +238,25 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-034221/thumb_cotillion-room.jpg",
       "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-034221/cotillion-room.jpg",
       "alt": "Cotillion Room"
+    },
+    {
+      "name": "madison-boardroom",
+      "file_name": "madison-boardroom.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035655/madison-boardroom.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-035655",
+      "file_type": "image/jpeg",
+      "width": 1246,
+      "height": 701,
+      "file_size": 108050,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035655/large_madison-boardroom.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035655/medium_madison-boardroom.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035655/small_madison-boardroom.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035655/xsmall_madison-boardroom.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035655/thumb_madison-boardroom.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035655/madison-boardroom.jpg",
+      "alt": "Madison Boardroom"
     }
   ],
   "description": ""
