@@ -140,6 +140,25 @@
       "alt": "the-hotel-7"
     },
     {
+      "name": "charles-pierre-terrace",
+      "file_name": "charles-pierre-terrace.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/charles-pierre-terrace.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-051112",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 797,
+      "file_size": 138751,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/large_charles-pierre-terrace.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/medium_charles-pierre-terrace.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/small_charles-pierre-terrace.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/xsmall_charles-pierre-terrace.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/thumb_charles-pierre-terrace.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/charles-pierre-terrace.jpg",
+      "alt": "Charles Pierre Terrace"
+    },
+    {
       "name": "the-hotel-6",
       "file_name": "the-hotel-6.jpg",
       "url": "//cdn.traveltripper.io/site-assets/357_906_18634/media/2018-08-30-074639/the-hotel-6.jpg",
@@ -198,25 +217,6 @@
       "git_file_name": "_assets/image_data/the-hotel-2.json",
       "path": "//cdn.traveltripper.io/site-assets/357_906_18634/media/2018-08-30-074634/the-hotel-2.jpg",
       "alt": "the-hotel-2"
-    },
-    {
-      "name": "charles-pierre-terrace",
-      "file_name": "charles-pierre-terrace.jpg",
-      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/charles-pierre-terrace.jpg",
-      "tags": "",
-      "description": "",
-      "date_added": "2018-11-14-051112",
-      "file_type": "image/jpeg",
-      "width": 1200,
-      "height": 797,
-      "file_size": 138751,
-      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/large_charles-pierre-terrace.jpg",
-      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/medium_charles-pierre-terrace.jpg",
-      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/small_charles-pierre-terrace.jpg",
-      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/xsmall_charles-pierre-terrace.jpg",
-      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/thumb_charles-pierre-terrace.jpg",
-      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-051112/charles-pierre-terrace.jpg",
-      "alt": "Charles Pierre Terrace"
     },
     {
       "name": "the-hotel-1",
