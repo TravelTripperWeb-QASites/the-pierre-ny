@@ -296,6 +296,25 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_19732/media/2018-10-09-113512/thumb_View_3.jpg",
       "path": "//cdn.traveltripper.io/site-assets/357_906_19732/media/2018-10-09-113512/View_3.jpg",
       "alt": "View out of the window"
+    },
+    {
+      "name": "exterior-park",
+      "file_name": "exterior-park.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040015/exterior-park.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-040015",
+      "file_type": "image/jpeg",
+      "width": 1542,
+      "height": 1514,
+      "file_size": 323713,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040015/large_exterior-park.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040015/medium_exterior-park.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040015/small_exterior-park.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040015/xsmall_exterior-park.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040015/thumb_exterior-park.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040015/exterior-park.jpg",
+      "alt": "Exterior park"
     }
   ],
   "description": ""
