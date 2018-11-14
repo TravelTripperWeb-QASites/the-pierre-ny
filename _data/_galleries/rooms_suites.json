@@ -276,6 +276,26 @@
       "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055047/the-escoffier-suite.jpg",
       "alt": "The Escoffier Suite",
       "caption": "The Escoffier Suite"
+    },
+    {
+      "name": "the-hutton-suite",
+      "file_name": "the-hutton-suite.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055111/the-hutton-suite.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-055111",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 806,
+      "file_size": 123005,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055111/large_the-hutton-suite.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055111/medium_the-hutton-suite.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055111/small_the-hutton-suite.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055111/xsmall_the-hutton-suite.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055111/thumb_the-hutton-suite.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055111/the-hutton-suite.jpg",
+      "alt": "The Hutton Suite",
+      "caption": "The Hutton Suite"
     }
   ],
   "description": ""
