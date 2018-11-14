@@ -375,6 +375,26 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055231/thumb_twin-room-escoffier.jpg",
       "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055231/twin-room-escoffier.jpg",
       "alt": "Twin Room Escoffier"
+    },
+    {
+      "name": "two-bedroom-deluxe-grand-suite",
+      "file_name": "two-bedroom-deluxe-grand-suite.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055253/two-bedroom-deluxe-grand-suite.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-055253",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 1023,
+      "file_size": 148809,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055253/large_two-bedroom-deluxe-grand-suite.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055253/medium_two-bedroom-deluxe-grand-suite.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055253/small_two-bedroom-deluxe-grand-suite.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055253/xsmall_two-bedroom-deluxe-grand-suite.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055253/thumb_two-bedroom-deluxe-grand-suite.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055253/two-bedroom-deluxe-grand-suite.jpg",
+      "alt": "Two Bedroom Deluxe Grand Suite",
+      "caption": "Two Bedroom Deluxe Grand Suite"
     }
   ],
   "description": ""
