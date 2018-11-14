@@ -57,7 +57,7 @@ meta_tags:
           </a>
           <div class="offer-content">
             {% if site.active_lang == "en" %}
-            <p tabindex="0">{{ offer.short_description_en | truncate: 80 | markdownify | strip_html | normalize_whitespace | escape_once }}</p>
+            <p tabindex="0">{{ offer.short_description_en | truncate: 70 | markdownify | strip_html | normalize_whitespace | escape_once }}</p>
             {% else %}
             <p tabindex="0">{{ offer.short_description_zh | truncate: 80 | markdownify | strip_html | normalize_whitespace | escape_once }}</p>
             {% endif %}
