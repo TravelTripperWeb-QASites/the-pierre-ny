@@ -296,6 +296,26 @@
       "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055111/the-hutton-suite.jpg",
       "alt": "The Hutton Suite",
       "caption": "The Hutton Suite"
+    },
+    {
+      "name": "the-park-suite",
+      "file_name": "the-park-suite.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055128/the-park-suite.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-055128",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 800,
+      "file_size": 125851,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055128/large_the-park-suite.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055128/medium_the-park-suite.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055128/small_the-park-suite.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055128/xsmall_the-park-suite.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055128/thumb_the-park-suite.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-055128/the-park-suite.jpg",
+      "alt": "The Park Suite",
+      "caption": "The Park Suite"
     }
   ],
   "description": ""
