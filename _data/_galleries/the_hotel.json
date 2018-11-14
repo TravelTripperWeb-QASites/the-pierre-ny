@@ -353,6 +353,25 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040141/thumb_rose-terrace.jpg",
       "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040141/rose-terrace.jpg",
       "alt": "rose terrace"
+    },
+    {
+      "name": "doorman-with-child",
+      "file_name": "doorman-with-child.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040210/doorman-with-child.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-040210",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 92845,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040210/large_doorman-with-child.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040210/medium_doorman-with-child.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040210/small_doorman-with-child.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040210/xsmall_doorman-with-child.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040210/thumb_doorman-with-child.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-040210/doorman-with-child.jpg",
+      "alt": "doorman with child"
     }
   ],
   "description": ""
