@@ -178,6 +178,25 @@
       "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-054838/metropolitan-suite.jpg",
       "alt": "Metropolitan Suite",
       "caption": "Metropolitan Suite"
+    },
+    {
+      "name": "rooms-details",
+      "file_name": "rooms-details.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-054907/rooms-details.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-054907",
+      "file_type": "image/jpeg",
+      "width": 790,
+      "height": 1200,
+      "file_size": 104552,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-054907/large_rooms-details.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-054907/medium_rooms-details.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-054907/small_rooms-details.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-054907/xsmall_rooms-details.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-054907/thumb_rooms-details.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-054907/rooms-details.jpg",
+      "alt": "Room detail"
     }
   ],
   "description": ""
