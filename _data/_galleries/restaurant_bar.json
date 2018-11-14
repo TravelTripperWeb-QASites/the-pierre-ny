@@ -82,6 +82,25 @@
       "alt": "restaurant-10"
     },
     {
+      "name": "pierre-dining-image",
+      "file_name": "pierre-dining-image.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/pierre-dining-image.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-14-035928",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 900,
+      "file_size": 141087,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/large_pierre-dining-image.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/medium_pierre-dining-image.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/small_pierre-dining-image.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/xsmall_pierre-dining-image.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/thumb_pierre-dining-image.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/pierre-dining-image.jpg",
+      "alt": "dining"
+    },
+    {
       "name": "restaurant-9",
       "file_name": "restaurant-9.jpg",
       "url": "//cdn.traveltripper.io/site-assets/357_906_18634/media/2018-08-30-075631/restaurant-9.jpg",
@@ -354,25 +373,6 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035852/thumb_perrine-tablescape.jpg",
       "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035852/perrine-tablescape.jpg",
       "alt": "perrine tablescape"
-    },
-    {
-      "name": "pierre-dining-image",
-      "file_name": "pierre-dining-image.jpg",
-      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/pierre-dining-image.jpg",
-      "tags": "",
-      "description": "",
-      "date_added": "2018-11-14-035928",
-      "file_type": "image/jpeg",
-      "width": 1200,
-      "height": 900,
-      "file_size": 141087,
-      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/large_pierre-dining-image.jpg",
-      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/medium_pierre-dining-image.jpg",
-      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/small_pierre-dining-image.jpg",
-      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/xsmall_pierre-dining-image.jpg",
-      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/thumb_pierre-dining-image.jpg",
-      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-035928/pierre-dining-image.jpg",
-      "alt": "dining"
     }
   ],
   "description": ""
