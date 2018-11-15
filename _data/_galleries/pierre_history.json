@@ -238,6 +238,26 @@
       "git_file_name": "_assets/image_data/large-1956-AudreyHepburnOscarNoWatermark.json",
       "path": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072253/large_1956_AudreyHepburnOscarNoWatermark.jpg",
       "alt": "Audrey Hepburn Oscar NoWatermark"
+    },
+    {
+      "name": "large_1956_Employee_Christmas_Party",
+      "file_name": "large_1956_Employee_Christmas_Party.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072314/large_1956_Employee_Christmas_Party.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-08-24-072314",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 717,
+      "file_size": 452383,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072314/large_large_1956_Employee_Christmas_Party.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072314/medium_large_1956_Employee_Christmas_Party.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072314/small_large_1956_Employee_Christmas_Party.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072314/xsmall_large_1956_Employee_Christmas_Party.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072314/thumb_large_1956_Employee_Christmas_Party.jpg",
+      "git_file_name": "_assets/image_data/large-1956-Employee-Christmas-Party.json",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072314/large_1956_Employee_Christmas_Party.jpg",
+      "alt": "Employee Christmas Party"
     }
   ],
   "description": ""
