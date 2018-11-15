@@ -29,6 +29,9 @@
           min-height: 770px;
           margin-bottom: 0;
         }
+        &.bg-bottom {
+          background-position: bottom center;
+        }
       }
 
       .image-text {
