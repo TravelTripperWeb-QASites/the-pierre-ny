@@ -337,6 +337,26 @@
       "git_file_name": "_assets/image_data/large-1938-John-Paul-Getty-desk-portrait-W1000.json",
       "path": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-071939/large_1938_John_Paul_Getty_desk_portrait_W1000.jpg",
       "alt": "Getty desk portrait"
+    },
+    {
+      "name": "large_1950_Bird_Cage_-_Brioni_Photoshoot",
+      "file_name": "large_1950_Bird_Cage_-_Brioni_Photoshoot.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072005/large_1950_Bird_Cage_-_Brioni_Photoshoot.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-08-24-072005",
+      "file_type": "image/jpeg",
+      "width": 835,
+      "height": 1200,
+      "file_size": 258803,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072005/large_large_1950_Bird_Cage_-_Brioni_Photoshoot.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072005/medium_large_1950_Bird_Cage_-_Brioni_Photoshoot.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072005/small_large_1950_Bird_Cage_-_Brioni_Photoshoot.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072005/xsmall_large_1950_Bird_Cage_-_Brioni_Photoshoot.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072005/thumb_large_1950_Bird_Cage_-_Brioni_Photoshoot.jpg",
+      "git_file_name": "_assets/image_data/large-1950-Bird-Cage---Brioni-Photoshoot.json",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072005/large_1950_Bird_Cage_-_Brioni_Photoshoot.jpg",
+      "alt": "Bird Cage Brioni"
     }
   ],
   "description": ""
