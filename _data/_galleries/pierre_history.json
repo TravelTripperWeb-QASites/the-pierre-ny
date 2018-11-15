@@ -258,6 +258,25 @@
       "git_file_name": "_assets/image_data/large-1956-Employee-Christmas-Party.json",
       "path": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-072314/large_1956_Employee_Christmas_Party.jpg",
       "alt": "Employee Christmas Party"
+    },
+    {
+      "name": "1938-John-Paul-Getty-desk-portrait",
+      "file_name": "1938-John-Paul-Getty-desk-portrait.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-021933/1938-John-Paul-Getty-desk-portrait.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-15-021933",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 958,
+      "file_size": 453785,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-021933/large_1938-John-Paul-Getty-desk-portrait.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-021933/medium_1938-John-Paul-Getty-desk-portrait.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-021933/small_1938-John-Paul-Getty-desk-portrait.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-021933/xsmall_1938-John-Paul-Getty-desk-portrait.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-021933/thumb_1938-John-Paul-Getty-desk-portrait.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-021933/1938-John-Paul-Getty-desk-portrait.jpg",
+      "alt": "John Paul Getty"
     }
   ],
   "description": ""
