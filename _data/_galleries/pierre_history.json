@@ -78,6 +78,26 @@
       "git_file_name": "_assets/image_data/large-1990s-Scent-of-A-Woman.json",
       "path": "//cdn.traveltripper.io/site-assets/357_906_18498/media/2018-08-24-083747/large_1990s_Scent_of_A_Woman.jpg",
       "alt": "women dance"
+    },
+    {
+      "name": "large_1960s_La_Foret_Sirio__circa_1970",
+      "file_name": "large_1960s_La_Foret_Sirio__circa_1970.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-080817/large_1960s_La_Foret_Sirio__circa_1970.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-08-24-080817",
+      "file_type": "image/jpeg",
+      "width": 829,
+      "height": 1200,
+      "file_size": 106287,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-080817/large_large_1960s_La_Foret_Sirio__circa_1970.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-080817/medium_large_1960s_La_Foret_Sirio__circa_1970.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-080817/small_large_1960s_La_Foret_Sirio__circa_1970.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-080817/xsmall_large_1960s_La_Foret_Sirio__circa_1970.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-080817/thumb_large_1960s_La_Foret_Sirio__circa_1970.jpg",
+      "git_file_name": "_assets/image_data/large-1960s-La-Foret-Sirio--circa-1970.json",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-080817/large_1960s_La_Foret_Sirio__circa_1970.jpg",
+      "alt": "La Foret Sirio"
     }
   ],
   "description": ""
