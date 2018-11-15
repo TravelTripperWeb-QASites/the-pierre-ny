@@ -397,6 +397,26 @@
       "git_file_name": "_assets/image_data/large-1980s-The-Pierre-61st-Street-Entrance.json",
       "path": "//cdn.traveltripper.io/site-assets/357_906_18496/media/2018-08-24-081504/large_1980s_The_Pierre_61st_Street_Entrance.jpg",
       "alt": "The Pierre 61st Street Entrance"
+    },
+    {
+      "name": "large_1930_PierreHotel_1000x1725",
+      "file_name": "large_1930_PierreHotel_1000x1725.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-08-24-044026/large_1930_PierreHotel_1000x1725.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-08-24-044026",
+      "file_type": "image/jpeg",
+      "width": 696,
+      "height": 1200,
+      "file_size": 374446,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-08-24-044026/large_large_1930_PierreHotel_1000x1725.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-08-24-044026/medium_large_1930_PierreHotel_1000x1725.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-08-24-044026/small_large_1930_PierreHotel_1000x1725.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-08-24-044026/xsmall_large_1930_PierreHotel_1000x1725.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-08-24-044026/thumb_large_1930_PierreHotel_1000x1725.jpg",
+      "git_file_name": "_assets/image_data/large-1930-PierreHotel-1000x1725.json",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-08-24-044026/large_1930_PierreHotel_1000x1725.jpg",
+      "alt": "1930 PierreHotel"
     }
   ],
   "description": ""
