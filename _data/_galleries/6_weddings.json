@@ -139,6 +139,25 @@
       "git_file_name": "_assets/image_data/wedding1.json",
       "path": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-09-03-041154/wedding1.jpg",
       "alt": "wedding1"
+    },
+    {
+      "name": "1938-John-Paul-Getty-desk-portrait",
+      "file_name": "1938-John-Paul-Getty-desk-portrait.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-052826/1938-John-Paul-Getty-desk-portrait.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-15-052826",
+      "file_type": "image/jpeg",
+      "width": 1200,
+      "height": 958,
+      "file_size": 453785,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-052826/large_1938-John-Paul-Getty-desk-portrait.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-052826/medium_1938-John-Paul-Getty-desk-portrait.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-052826/small_1938-John-Paul-Getty-desk-portrait.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-052826/xsmall_1938-John-Paul-Getty-desk-portrait.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-052826/thumb_1938-John-Paul-Getty-desk-portrait.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-15-052826/1938-John-Paul-Getty-desk-portrait.jpg",
+      "alt": "1938-John-Paul-Getty-desk-portrait"
     }
   ],
   "description": ""
