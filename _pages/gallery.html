@@ -53,7 +53,7 @@ meta_tags:
       {% for category in categories %}
         {% assign catname = category[0] %}
         {% for photo in site.data._galleries[catname].photos %}
-        <div class="gallery-item fancybox item" data-filter="{{catname}}" data-src="{% if photo.url_large %}{{ photo.url_large }}{% else %}{{ photo.url }}{% endif %}" {% if photo.caption and photo.caption != '' %}data-sub-html=".caption"{% endif %}>
+        <div class="gallery-item fancybox item" data-filter="{{catname}}" data-src="{% if photo.url_large %}{{ photo.url_large }}{% else %}{{ photo.url }}{% endif %}" {% if photo.caption and photo.caption != '' %}data-sub-html="{{ photo.caption }}"{% endif %}>
           <div class="image" style="background-image: url('{{ photo.url_small }}')">
             <img src="{{ photo.url_small }}" class="hidden" alt="{{ photo.alt }}">
             {% if photo.caption and photo.caption != '' %}
