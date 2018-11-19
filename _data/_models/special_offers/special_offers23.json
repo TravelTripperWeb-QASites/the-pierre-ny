@@ -1,6 +1,6 @@
 {
-  "title": "Cyber Monday Offer Up to 50% Off",
-  "title_zh": "Cyber Monday Offer Up to 50% Off",
+  "title": "Cyber Monday Offer: Up to 50% Off",
+  "title_zh": "Cyber Monday Offer: Up to 50% Off",
   "url_friendly_name": "cyber-monday",
   "banner_image": {
     "name": "Cyber Monday compressed image",
@@ -23,12 +23,12 @@
     "caption": ""
   },
   "date": "Valid Until November 27th for travel now through September 3, 2019",
-  "short_description_en": "Treat yourself to a #PerfectlyPierre getaway with our special Cyber Monday offer!. This rate is not combinable with any other offer, promotion, gift certificate or program and is only valid for the dates specified.",
-  "short_description_zh": "Treat yourself to a #PerfectlyPierre getaway with our special Cyber Monday offer!. This rate is not combinable with any other offer, promotion, gift certificate or program and is only valid for the dates specified.",
+  "short_description_en": "Enjoy up to 50% off and a welcome amenity for stays of two nights or more with our special Cyber Monday offer. \n",
+  "short_description_zh": "Enjoy up to 50% off and a welcome amenity for stays of two nights or more with our special Cyber Monday offer. Take advantage of up to 50% off our Best Available Rates and receive a complimentary welcome amenity for stays of two nights or more with our special Cyber Monday offer. Valid for travel between November 16, 2018 and September 3rd, 2019 booked by November 26, 2018. ",
   "offer_includes_en": "<ul>\n<li>15% to 50% off Best Available Rates</li>\n<li>Complimentary In-room amenity upon arrival</li>\n</ul>",
   "offer_includes_zh": "<ul>\n<li>15% to 50% off Best Available Rates</li>\n<li>Complimentary In-room amenity upon arrival</li>\n</ul>",
-  "terms_en": "<ul>\n<li>Minimum two night stay required. Book any room from November 16th until November 29th and receive up to 50% off your stay</li>\n<li>Rates are prepaid and non-refundable</li>\n<li>Reservation cannot be canceled or amended</li>\n<li>Book by Tuesday, November 27th for travel now through September 3, 2019</li>\n</ul>",
-  "terms_zh": "<ul>\n<li>Minimum two night stay required. Book any room from November 16th until November 29th and receive up to 50% off your stay</li>\n<li>Rates are prepaid and non-refundable</li>\n<li>Reservation cannot be canceled or amended</li>\n<li>Book by Tuesday, November 27th for travel now through September 3, 2019</li>\n</ul>",
+  "terms_en": "<ul>\n<li>Minimum two night stay required. Book any room from November 16th until November 29th and receive up to 50% off your stay</li>\n<li>Rates are prepaid and non-refundable</li>\n<li>Rate valid only for stay dates specified and not combinable with any other offer, promotion, gift or program&nbsp;</li>\n<li>Reservation cannot be canceled or amended</li>\n<li>Book by Tuesday, November 27th for travel now through September 3, 2019</li>\n</ul>",
+  "terms_zh": "<ul>\n<li>Minimum two night stay required. Book any room from November 16th until November 29th and receive up to 50% off your stay</li>\n<li>Rates are prepaid and non-refundable</li>\n<li>Rate valid only for stay dates specified and not combinable with any other offer, promotion, gift or program&nbsp;</li>\n<li>Reservation cannot be canceled or amended</li>\n<li>Book by Tuesday, November 27th for travel now through September 3, 2019</li>\n</ul>",
   "booking_link_en": "https://thepierreny.reztrip.com/ext/promoRate?property=973&mode=b&pm=true&sr=192644&vr=3",
   "booking_link_zh": "https://thepierreny.reztrip.com/ext/promoRate?property=973&mode=b&pm=true&sr=192644&vr=3",
   "order": 1,
