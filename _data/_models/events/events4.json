@@ -1,44 +1,45 @@
 {
-  "category_id": "coming soon",
+  "category_id": "holidaycelebs",
   "category_image": {
-    "name": "broadway-at-the-pierre-trio",
-    "file_name": "broadway-at-the-pierre-trio.jpg",
-    "url": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/broadway-at-the-pierre-trio.jpg",
+    "name": "Two E tree horizontal cropped",
+    "file_name": "Two E tree horizontal cropped.jpg",
+    "url": "//cdn.traveltripper.io/site-assets/357_906_21313/media/2018-11-20-130200/Two_E_tree_horizontal_cropped.jpg",
     "tags": "",
     "description": "",
-    "date_added": "2018-10-19-022831",
+    "date_added": "2018-11-20-130200",
     "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 600,
-    "file_size": 144473,
-    "url_large": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/large_broadway-at-the-pierre-trio.jpg",
-    "url_medium": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/medium_broadway-at-the-pierre-trio.jpg",
-    "url_small": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/small_broadway-at-the-pierre-trio.jpg",
-    "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/xsmall_broadway-at-the-pierre-trio.jpg",
-    "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/thumb_broadway-at-the-pierre-trio.jpg",
-    "git_file_name": "_assets/image_data/broadway-at-the-pierre-trio.json",
-    "path": "//cdn.traveltripper.io/site-assets/357_906_20033/media/2018-10-19-022831/broadway-at-the-pierre-trio.jpg",
-    "alt": "broadway-at-the-pierre-trio",
+    "width": 2214,
+    "height": 1179,
+    "file_size": 1047223,
+    "url_large": "//cdn.traveltripper.io/site-assets/357_906_21313/media/2018-11-20-130200/large_Two_E_tree_horizontal_cropped.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21313/media/2018-11-20-130200/medium_Two_E_tree_horizontal_cropped.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/357_906_21313/media/2018-11-20-130200/small_Two_E_tree_horizontal_cropped.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21313/media/2018-11-20-130200/xsmall_Two_E_tree_horizontal_cropped.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21313/media/2018-11-20-130200/thumb_Two_E_tree_horizontal_cropped.jpg",
+    "path": "//cdn.traveltripper.io/site-assets/357_906_21313/media/2018-11-20-130200/Two_E_tree_horizontal_cropped.jpg",
+    "alt": "Two E tree horizontal cropped",
     "caption": ""
   },
   "sort_order": 3,
   "title_localized": {
-    "en": ""
+    "en": "Holiday Celebrations"
   },
   "category_intro_localized": {
-    "en": "<p>Featured in The New York Times and Playbill, our acclaimed monthly cabaret series presented by Taittinger Champagne features intimate performances from musical theater's brightest stars.&nbsp;</p>\n<p>&nbsp;</p>"
+    "en": "<p>From our annual tree lighting party in Two E to special Christmas menus and festive New Year's Eve celebrations. View our complete holiday event calendar&nbsp;<a href=\"//cdn.traveltripper.io/site-assets/357_906_21313/media/2018-11-20-131047/PierreHolidayEvents2018-final-NEW.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></p>"
   },
   "front-page": true,
   "event_listing_localized": {
     "en": [
       {
-        "event_name": "Coming Soon",
+        "event_name": "Holiday Celebrations",
         "event_id": "art",
-        "day": "November",
+        "day": "December",
         "date_time": "2018",
         "widget": "OpenTable",
         "event_booking_id": "x",
-        "event_contact": "<p>View clips from previous performances on our&nbsp;<strong><a href=\"https://www.youtube.com/playlist?list=PL_JCpt6tqVDT85vkwudzdkZ_IpIJjLxp2\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube page</a></strong></p>"
+        "event_contact": "<p>To book your table at Perrine, please call 212-940-8195 Or Email <a href=\"mailto:reserveperrine@tajhotels.com.\">reserveperrine@tajhotels.com. </a></p>\n<p>For Two E Bar &amp; Lounge bookings, please call 212-940-8113 or Email <a href=\"mailto:TwoE@tajhotels.com\">TwoE@tajhotels.com</a></p>\n<p>&nbsp;</p>",
+        "event_detail": "Make Reservations For All Holiday Events",
+        "cta_text": ""
       }
     ]
   }
