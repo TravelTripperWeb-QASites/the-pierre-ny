@@ -37,7 +37,9 @@
         "date_time": "2018",
         "widget": "OpenTable",
         "event_booking_id": "x",
-        "event_contact": "<p>View clips from previous performances on our&nbsp;<strong><a href=\"https://www.youtube.com/playlist?list=PL_JCpt6tqVDT85vkwudzdkZ_IpIJjLxp2\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube page</a></strong></p>"
+        "event_contact": "<p>View clips from previous performances on our&nbsp;<strong><a href=\"https://www.youtube.com/playlist?list=PL_JCpt6tqVDT85vkwudzdkZ_IpIJjLxp2\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube page</a></strong></p>",
+        "event_detail": "RESERVATIONS REQUIRED FOR ALL HOLIDAY EVENTS. TO BOOK YOUR TABLE AT PERRINE, PLEASE CALL 212-940-8195 OR EMAIL RESERVEPERRINE@TAJHOTELS.COM. FOR TWO E BOOKINGS, PLEASE CALL 212-940-8113 OR EMAIL TWOE@TAJHOTELS.COM.",
+        "cta_text": "RESERVATIONS REQUIRED FOR ALL HOLIDAY EVENTS. TO BOOK YOUR TABLE AT PERRINE, PLEASE CALL 212-940-8195 OR EMAIL RESERVEPERRINE@TAJHOTELS.COM. FOR TWO E BOOKINGS, PLEASE CALL 212-940-8113 OR EMAIL TWOE@TAJHOTELS.COM."
       }
     ]
   }
