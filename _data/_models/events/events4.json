@@ -1,5 +1,5 @@
 {
-  "category_id": "Holiday Celebrations",
+  "category_id": "holidaycelebs",
   "category_image": {
     "name": "Two E tree horizontal cropped",
     "file_name": "Two E tree horizontal cropped.jpg",
@@ -37,9 +37,9 @@
         "date_time": "2018",
         "widget": "OpenTable",
         "event_booking_id": "x",
-        "event_contact": "<p>&nbsp;</p>\n<p>To book your table at Perrine, please call 212-940-8195 Or Email reserveperrine@tajhotels.com. For Two E bookings, please call 212-940-8113 or Email TwoE@tajhotels.com</p>",
-        "event_detail": "Reservations required for all Holiday Events.",
-        "cta_text": "To book your table at Perrine, please call 212-940-8195 Or Email reserveperrine@tajhotels.com. For Two E bookings, please call 212-940-8113 or Email TwoE@tajhotels.com"
+        "event_contact": "<p>To book your table at Perrine, please call 212-940-8195 Or Email <a href=\"mailto:reserveperrine@tajhotels.com.\">reserveperrine@tajhotels.com. </a></p>\n<p>For Two E bookings, please call 212-940-8113 or Email <a href=\"mailto:TwoE@tajhotels.com\">TwoE@tajhotels.com</a></p>\n<p>&nbsp;</p>",
+        "event_detail": "Make Reservations",
+        "cta_text": ""
       }
     ]
   }
