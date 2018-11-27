@@ -4,6 +4,7 @@
     sessionStorage.ip_add = data.ip;
   }
 </script>
+<script src ="https://api.ipify.org?format=jsonp&callback=getIp"> </script>
 
 <!--[if gte IE 9]><!-->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -50,9 +51,15 @@
     defaultCurrency: 'USD',
     defaultLocale: '{% if site.active_lang =="zh" %}zh-CN{% else %}en{% endif%}'
   });
-  $("[show-booking-widget]").bookingWidget({
-    // showRateCalendar: true,
+  var booking = new TTWeb.Booking({
     showOfferCode: true
+  });
+  $("[show-booking-widget]").on("click", function() {
+    // shift No Thanks from specials list to bottom of list
+    var NoThanksSpecial = $(".ttweb-booking-widget__body__specials__rates__list__item").has("span.ttweb-booking-widget__body__specials__rates__list__item__radio__title:contains('No Thanks')");
+    NoThanksSpecial.remove();
+    $(".ttweb-booking-widget__body__specials__rates__list").append(NoThanksSpecial);
+    booking.showWidget();
   });
 </script>
 
