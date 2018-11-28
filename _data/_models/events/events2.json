@@ -22,21 +22,21 @@
   },
   "sort_order": 2,
   "title_localized": {
-    "en": "Jazz & Two E Hours"
+    "en": "LIVE JAZZ"
   },
   "category_intro_localized": {
-    "en": "<p>Discover Two E's new Icons of Jazz  series featuring Antonio & special guests!</p>"
+    "en": "<p>Enjoy complimentary live jazz Thursday, Friday and Saturday evenings with our artist-in-residence, internally renowned musician Antonio Ciacca.</p>"
   },
   "event_listing_localized": {
     "en": [
       {
-        "event_name": "Live jazz with Antonio Ciacca",
+        "event_name": "LIVE JAZZ",
         "event_id": "livejazz",
-        "event_detail": "Enjoy complimentary live jazz Thursday, Friday and Saturday evenings with our artist-in-residence, internationally renowned musician <strong>Antonio Ciacca</strong>.<br>Returning this winter, Two E's monthly Icons of Jazz  series featuring Antonio with special guests!",
+        "event_detail": "Returning this winter, Two E's Icons of Jazz series featuring Antonio & special guests!",
         "day": "Thursday - Saturday",
         "date_time": "6:30 - 9:30 PM",
         "event_booking_id": "x",
-        "event_contact": "<p>Contact Two E Bar &amp; Lounge, at <a href=\"tel:212-940-8113\">212 940 8113</a> or <a href=\"mailto:TwoE@tajhotels.com\">TwoE@tajhotels.com</a></p>",
+        "event_contact": "<p>Learn more about Antonio Ciacca&nbsp;<a href=\"http://motema.com/artists/antonio-ciacca/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></p>\n<p>Contact Two E Bar &amp; Lounge, at <a href=\"tel:212-940-8113\">212 940 8113</a> or <a href=\"mailto:TwoE@tajhotels.com\">TwoE@tajhotels.com</a></p>",
         "widget": "OpenTable",
         "cta_text": "Make Reservations"
       }
