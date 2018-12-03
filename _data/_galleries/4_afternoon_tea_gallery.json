@@ -275,6 +275,25 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-052419/thumb_afternoon-tea-horizontal.jpg",
       "path": "//cdn.traveltripper.io/site-assets/357_906_21118/media/2018-11-14-052419/afternoon-tea-horizontal.jpg",
       "alt": "Afternoon Tea"
+    },
+    {
+      "name": "tiffin-display",
+      "file_name": "tiffin-display.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/357_906_21649/media/2018-12-03-061410/tiffin-display.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-12-03-061410",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 91044,
+      "url_large": "//cdn.traveltripper.io/site-assets/357_906_21649/media/2018-12-03-061410/large_tiffin-display.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/357_906_21649/media/2018-12-03-061410/medium_tiffin-display.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/357_906_21649/media/2018-12-03-061410/small_tiffin-display.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_21649/media/2018-12-03-061410/xsmall_tiffin-display.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_21649/media/2018-12-03-061410/thumb_tiffin-display.jpg",
+      "path": "//cdn.traveltripper.io/site-assets/357_906_21649/media/2018-12-03-061410/tiffin-display.jpg",
+      "alt": "Tiffin"
     }
   ],
   "description": ""
