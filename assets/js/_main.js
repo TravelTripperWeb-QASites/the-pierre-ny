@@ -139,6 +139,7 @@ $(document).ready(function () {
     centerPadding: '16%',
     slidesToShow: 1,
     accessibility: false,
+    adaptiveHeight: true,
     responsive: [{
         breakpoint: 768,
         settings: {
