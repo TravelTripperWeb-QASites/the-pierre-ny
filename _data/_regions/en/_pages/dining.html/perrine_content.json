@@ -1,6 +1,6 @@
 [
   {
-    "content": "<p tabindex=\"0\">Perrine offers seasonally inspired, sustainably sourced New American fare and daily specials of vintage Pierre classics.</p>\n<p><a class=\"primary-btn\" href=\"http://www.perrinenyc.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Discover More</a></p>",
+    "content": "<p tabindex=\"0\">Perrine offers seasonally inspired, sustainably sourced New American fare and daily specials of vintage Pierre classics.</p>\n<p><a class=\"primary-btn small\" href=\"http://www.perrinenyc.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Discover More</a></p>",
     "_template": "html"
   }
 ]
